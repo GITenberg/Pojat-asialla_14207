@@ -20,6 +20,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Algot_Untola
     - http://www.kirjasto.sci.fi/lassila.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14207#Pojat-asialla
 gutenberg_issued: '2004-11-29'
 gutenberg_type: Text
 identifiers:
